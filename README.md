@@ -16,6 +16,7 @@
 ### Structural patterns (Структурные шаблоны)
 - [Adapter (Адаптер)](adapter/src/main/java/net/pattern/adapter) - обеспечение совместимой работы классов, интерфейсы которых не совместимы.
 - [Bridge (Мост)](bridge/src/main/java/net/pattern/bridge) - получение преимуществ наследования без потери гибкости.
+- [Composite (Компановщик)](composite/src/main/java/net/pattern/composite) - получение преимуществ наследования без потери гибкости.
 
 ---
 
