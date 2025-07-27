@@ -24,4 +24,4 @@
 
 ## Схема шаблона
 
-![Схема шаблона Адаптер](adapter/src/main/resources/static/adapter.png)
+![Схема шаблона Адаптер](../../../../resources/static/adapter.png)
