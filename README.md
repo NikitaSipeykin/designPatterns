@@ -20,6 +20,7 @@
 - [Decorator (Декоратор)](decorator/src/main/java/net/pattern/decorator) - Используется в качестве альтернативы порождению подклассов для расширения функциональности.
 - [Facade (Фасад)](facade/src/main/java/net/pattern/facade) - Используется для определения интерфейса высокого уровня, который упрощает использование подсистемы.
 - [Flyweight (Приспособленец)](flyweight/src/main/java/net/pattern/flyweight) - Использует разделение для того, чтобы поддерживать много мелких объектов.
+- [Proxy (Прокси)](proxy/src/main/java/net/pattern/proxy) - Обеспечение контроля доступа к определенному объекту.
 
 ---
 
